@@ -57,8 +57,13 @@
     color: #f58402;
 }
 
-.cancel-button:hover,
+
 .add-button:hover {
     background-color: #ff6a00;
     border-color: #ff6a00;
+}
+
+.cancel-button:hover {
+    background-color: #ff6a00;
+    color: white;
 }
